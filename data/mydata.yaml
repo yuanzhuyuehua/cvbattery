@@ -1,0 +1,7 @@
+train: C:/Users/pc/yolov5/data/mydata/dataSet/train.txt  #855 images
+val: C:/Users/pc/yolov5/data/mydata/dataSet/val.txt  #214 images
+test: C:/Users/pc/yolov5/data/mydata/dataSet/test.txt
+test_xml: C:/Users/pc/yolov5/data/mydata/xml
+
+nc: 5
+names: ['0crack','25%crack','50%crack','75%crack','100%crack']
